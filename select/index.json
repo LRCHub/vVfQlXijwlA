@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Stardust flow",
+  "base_artist": "リゼ・ヘルエスタ",
+  "createdAt": "2026-01-05T04:54:29.396464Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lady Stardust (2003 Remix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/01_Lady_Stardust_(2003_Remix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lady Stardust",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/02_Lady_Stardust_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lady Stardust - Demo; 2002 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/03_Lady_Stardust_-_Demo;_2002_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lady Stardust (Demo)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_Lady_Stardust_(Demo)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ziggy Stardust (2003 Remix)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/05_Ziggy_Stardust_(2003_Remix)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ziggy Stardust",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_Ziggy_Stardust_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ziggy Stardust",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Ziggy_Stardust_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ziggy Stardust",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_Ziggy_Stardust_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stardust",
+      "artist": "Luscious Jackson",
+      "has_synced": true,
+      "path": "select/09_Stardust_Luscious_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stardust",
+      "artist": "Menswear",
+      "has_synced": false,
+      "path": "select/10_Stardust_Menswear.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stardust",
+      "artist": "David Essex",
+      "has_synced": true,
+      "path": "select/11_Stardust_David_Essex.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stardust (Reprise)",
+      "artist": "Menswear",
+      "has_synced": false,
+      "path": "select/12_Stardust_(Reprise)_Menswear.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "From Vapor To Stardust",
+      "artist": "Marissa Nadler feat. Simon Raymonde",
+      "has_synced": false,
+      "path": "select/13_From_Vapor_To_Stardust_Marissa_Nadler_feat._Simon_Raymonde.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "From Vapor to Stardust (feat. Simon Raymonde)",
+      "artist": "Marissa Nadler",
+      "has_synced": false,
+      "path": "select/14_From_Vapor_to_Stardust_(feat._Simon_Raymonde)_Marissa_Nadler.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stardust flow",
+      "artist": "リゼ・ヘルエスタ",
+      "has_synced": false,
+      "path": "select/pl_01_Stardust_flow_リゼ・ヘルエスタ.txt"
+    }
+  ]
+}
